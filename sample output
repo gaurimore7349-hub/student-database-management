@@ -1,0 +1,14 @@
+enter your choice:2
+enter roll number to search :2
+
+student found!
+roll number:2
+name:gauri
+marks:89.0
+
+enter your choice:4
+enter roll no to delete:2
+student deleded successfully!
+
+enter roll number to search:9
+student not found!
